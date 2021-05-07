@@ -2,8 +2,6 @@ package BSaleTest.Rest;
 
 import BSaleTest.DAO.CategoryDao;
 import BSaleTest.DAO.ProductDao;
-import BSaleTest.Dao.CategoryDao;
-import BSaleTest.Dao.ProductDao;
 import BSaleTest.Model.Category;
 import BSaleTest.Model.Product;
 import org.springframework.beans.factory.annotation.Autowired;
